@@ -28,7 +28,7 @@ import java.util.Arrays;
  * <p>
  * <br>
  *
- * @author hehua
+ * @author heh
  * @date 2021/1/20
  */
 public class MergeSort {

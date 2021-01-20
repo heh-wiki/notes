@@ -6,7 +6,7 @@ package wiki.heh.notes.leetcode;
  * <br> 1. 注意：你不能在买入股票前卖出股票。
  * <p> Leetcode题: <a href="https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock"> 121. 买卖股票的最佳时机 </a>
  *
- * @author hehua
+ * @author heh
  * @date 2021/1/20
  */
 public class BestTimeToBuyAndSellStock {
