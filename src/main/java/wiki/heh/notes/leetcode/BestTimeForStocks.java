@@ -9,7 +9,7 @@ package wiki.heh.notes.leetcode;
  * @author heh
  * @date 2021/1/20
  */
-public class BestTimeToBuyAndSellStock {
+public class BestTimeForStocks {
     public static void main(String[] args) {
 //        int[] p = new int[]{7,1,5,3,6,4};
 //        int[] p = new int[]{1,4,2};
