@@ -6,7 +6,7 @@ import java.util.LinkedList;
 import java.util.List;
 
 /**
- * 
+ *
  * 题目：给定一个二叉树，返回它的中序 遍历。
  * <p> 说明：
  * <p>
@@ -14,7 +14,7 @@ import java.util.List;
  *
  * <p> Leetcode题: <a href="https://leetcode-cn.com/problems/binary-tree-inorder-traversal"> 94. 二叉树的中序遍历 </a>
  *
- * @author hehua
+ * @author heh
  * @date 2021/1/22
  */
 public class BinaryTreeTraversal {
